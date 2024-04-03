@@ -1,10 +1,6 @@
-This is the latest feature 
 
-
-
-<<<<<<< HEAD
 version of feature v.06
-=======
+
 
 edited by RD
->>>>>>> 093cac91b10db7d7ffe0c154469cd849572eb5b8
+
